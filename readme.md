@@ -25,9 +25,7 @@ https://dwipasswordgenerator.netlify.app/
 Javascript, HTML, CSS
 
 
-## Screenshots
 
-![App Screenshot](https://github.com/ShivakantDwivedi/PASSWORD-GENERATOR/blob/main/Password%20Generator.png)
 
 
 
